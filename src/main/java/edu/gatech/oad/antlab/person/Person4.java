@@ -3,9 +3,8 @@ package edu.gatech.oad.antlab.person;
 /**
  *  A simple class for person 4
  *  returns their name and a
- *  modified string 
- *  
- *  @author Bob
+ *  modified string
+ *  @author Tommy Landman tland357
  *  @version 1.1
  */
 public class Person4 {
@@ -29,9 +28,14 @@ public class Person4 {
      * @param input the string to be modified
      * @return the modified string
      */
-    private String calc(String input) {
-      //Person 4 put your implementation here
-      return null;
+    private static String calc(String input) {
+        int[] array = new int[input.length()];
+        char[] charArray = new charArray[input.length()];
+        for (int x = 0; x < input.length(); x++){
+            array[x] = (int) input.charAt(x) + 1;
+            charArray[x] = (char) array[x];
+        }
+        return new String(charArray);
     }
     
     /**
