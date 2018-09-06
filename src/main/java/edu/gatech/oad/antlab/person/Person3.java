@@ -2,7 +2,7 @@ package edu.gatech.oad.antlab.person;
 /**
  *  A simple class for person 3
  *  returns their name and a
- *  reversed string 
+ *  reversed string    
  *
  *  @author  Darby Foster (dfoster44)
  *  @version 1.1
