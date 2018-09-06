@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d677199-afad-4686-b52a-edba88186247" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M2.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/resources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLab11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLab12.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg2/AntLab21.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg2/AntLab22.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/useless.p1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/useless.p2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/useless.p3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/useless.p4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/useless.p5.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
