@@ -29,13 +29,14 @@ public class Person4 {
      * @return the modified string
      */
     private static String calc(String input) {
-        int[] array = new int[input.length()];
-        char[] charArray = new charArray[input.length()];
-        for (int x = 0; x < input.length(); x++){
-            array[x] = (int) input.charAt(x) + 1;
-            charArray[x] = (char) array[x];
-        }
-        return new String(charArray);
+//        int[] array = new int[input.length()];
+//        char[] charArray = new charArray[input.length()];
+//        for (int x = 0; x < input.length(); x++){
+//            array[x] = (int) input.charAt(x) + 1;
+//            charArray[x] = (char) array[x];
+//        }
+//        return new String(charArray);
+        return null;
     }
     
     /**

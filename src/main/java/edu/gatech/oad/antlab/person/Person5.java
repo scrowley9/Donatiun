@@ -16,7 +16,7 @@ public class Person5 {
 	 * name
 	 * @param pname the person's real name
 	 */
-  public Person5(String pname) {
+    public Person5(String pname) {
     name = pname;
   }
   	/**
@@ -31,19 +31,20 @@ public class Person5 {
 	 */
 	private String calc(String input) {
 		//Person 5 put your implementation here
-		T[] tempArray = new T[input.length];
-
-		char secondLastChar = String.charAt(input.length - 2);
-		char lastChar = String.charAt(input.length - 1);
-
-		for (int i = 0; i < input.length - 2; i++) {
-			tempArray[i] = input.charAt(i + 2);
-		}
-
-		tempArray[tempArray.length - 2] = secondLastChar;
-		tempArray[tempArray.length - 1] = lastChar;
-
-		return Arrays.toString(tempArray);
+//		T[] tempArray = new T[input.length];
+//
+//		char secondLastChar = String.charAt(input.length - 2);
+//		char lastChar = String.charAt(input.length - 1);
+//
+//		for (int i = 0; i < input.length - 2; i++) {
+//			tempArray[i] = input.charAt(i + 2);
+//		}
+//
+//		tempArray[tempArray.length - 2] = secondLastChar;
+//		tempArray[tempArray.length - 1] = lastChar;
+//
+//		return Arrays.toString(tempArray);
+		return null;
 	}
 	
 	/**
