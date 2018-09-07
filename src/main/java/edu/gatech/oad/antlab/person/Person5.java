@@ -31,19 +31,27 @@ public class Person5 {
 	 */
 	private String calc(String input) {
 		//Person 5 put your implementation here
-		T[] tempArray = new T[input.length];
+		char[] tempArray = new char[input.length()];
 
-		char secondLastChar = String.charAt(input.length - 2);
-		char lastChar = String.charAt(input.length - 1);
+		char firstChar = input.charAt(0);
+		char secondChar = input.charAt(1);
 
-		for (int i = 0; i < input.length - 2; i++) {
+		for (int i = 0; i < input.length() - 2; i++) {
 			tempArray[i] = input.charAt(i + 2);
 		}
 
-		tempArray[tempArray.length - 2] = secondLastChar;
-		tempArray[tempArray.length - 1] = lastChar;
+		tempArray[tempArray.length - 2] = firstChar;
+		tempArray[tempArray.length - 1] = secondChar;
 
-		return Arrays.toString(tempArray);
+		String tempString = "";
+
+		for (int i = 0; i < tempArray.length - 2; i++) {
+			tempString += tempArray[i];
+		}
+		tempString += firstChar;
+		tempString += secondChar;
+
+		return tempString;
 	}
 	
 	/**
