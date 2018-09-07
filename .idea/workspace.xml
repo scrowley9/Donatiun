@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34bbcb5c-b707-439e-9a89-f2742945077d" name="Default" comment="Fixed Person4.java">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/resources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/person/Person1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/person/Person2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/person/Person3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/person/Person4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/person/Person5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLab11.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLab12.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLabMain.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/pkg2/AntLab21.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/edu/gatech/oad/antlab/pkg2/AntLab22.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/Person1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/Person2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/Person3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/Person4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/Person5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/person/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/AntLab11.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/AntLab12.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/AntLabMain.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg1/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg2/AntLab21.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg2/AntLab22.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg2/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg2/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/edu/gatech/oad/antlab/pkg2/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/package-list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/stylesheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/M2-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.p1.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/M2.iml" afterPath="$PROJECT_DIR$/M2.iml" />
-      <change beforePath="$PROJECT_DIR$/useless.p1.txt" afterPath="" />
-    </list>
+    <list default="true" id="34bbcb5c-b707-439e-9a89-f2742945077d" name="Default" comment="Fixed Person4.java" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,8 +47,8 @@
       <file leaf-file-name="Person4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            <state relative-caret-position="69">
+              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -755,6 +686,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,7 +700,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2453505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963988" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963988" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1003,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        <state relative-caret-position="69">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding />
         </state>
       </provider>
